@@ -1,3 +1,5 @@
+# FORK for use in rails assets pipeline
+
 # audio.js
 
 audiojs is a drop-in javascript library that allows HTML5's `<audio>` tag to
